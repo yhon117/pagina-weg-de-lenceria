@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="ELACE Lencería Boutique">
+  <rect width="400" height="500" fill="#171512"/>
+  <rect x="16" y="16" width="368" height="468" fill="none" stroke="#c9a227" stroke-width="1.5" opacity="0.6"/>
+  <text x="200" y="245" text-anchor="middle" font-family="Georgia, serif" font-size="52" letter-spacing="16" fill="#c9a227">ELACE</text>
+  <text x="200" y="285" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="7" fill="#e6cd7a" opacity="0.8">LENCERÍA BOUTIQUE</text>
+</svg>
